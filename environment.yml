@@ -1,0 +1,10 @@
+name: env39
+channels:
+  - defaults
+dependencies:
+  - python=3.9
+  - matplotlib
+  - numpy
+  - jupyter
+  - pandas
+prefix: /home/bright-mahonga/miniconda3/envs/env39
